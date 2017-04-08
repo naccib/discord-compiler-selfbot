@@ -1,0 +1,1 @@
+fn main() { let x : i32 = 52; println!( "Hello, World! {}" , x); }
