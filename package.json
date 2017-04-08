@@ -4,7 +4,9 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "grunt && node compiled/app.js"
+    "test": "grunt && node compiled/app.js",
+    "build": "grunt",
+    "start": "node compiled/app.js"
   },
   "author": "naccib",
   "license": "MIT",
